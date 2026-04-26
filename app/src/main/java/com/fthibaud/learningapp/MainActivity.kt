@@ -14,12 +14,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.fthibaud.learningapp.ui.navigation.AppNavigation
 import com.fthibaud.learningapp.ui.theme.LearningAppTheme
-import kotlinx.serialization.Serializable
-
-@Serializable object Onboarding
-@Serializable object Home
-@Serializable object AppSelection
-@Serializable data class Quiz(val packageName: String)
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

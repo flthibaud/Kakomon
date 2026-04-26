@@ -7,3 +7,6 @@ object Home
 
 @Serializable
 object AppSelection
+
+@Serializable
+object Onboarding
