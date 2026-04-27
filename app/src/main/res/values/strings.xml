@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Learning App</string>
+    <string name="accessibility_service_description">Détecte quand vous ouvrez une application surveillée afin d\'afficher le quiz avant d\'y accéder.</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.fthibaud.learningapp.ui.navigation
+package com.fthibaud.learningapp.navigation
 
 import kotlinx.serialization.Serializable
 
